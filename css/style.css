@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul,li,a{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+nav a{
+    color: black  !important;
+}
+
+.header_botm{
+    width: 100%;
+    height: 505px;
+    background: url(../img/Frame2.jpg) no-repeat center/cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.header_botm h1{
+    font-size: 43px;
+    color: #fff;
+    margin-bottom: 12px;
+}
+
+.header_botm p{
+    font-size: 15px;
+    color: #fff;
+    margin-bottom: 28px;
+}
+
+.header_botm a{
+    font-size: 13px;
+    color: #fff;
+}
+
+.section_text1{
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.section_text1 h1{
+    font-size: 43px;
+    color: #000;
+    margin-bottom: 15px;
+}
+
+.section_text1 p{
+    font-size: 14px;
+    color: #A0A0A0;
+    margin-bottom: 15px;
+}
+
+.section_text1 a{
+    font-size: 13px;
+    color: #000;
+    margin-bottom: 15px;
+}
+
+section .container .row .col-lg-6 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section .container .row .col-lg-6 img{
+    width: 99%;
+}
+
+section .container .row .col-lg-6 h1{
+    font-size: 27px;
+    color: #000;
+    margin-top: 48px;
+    margin-bottom: 23px;
+}
